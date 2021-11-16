@@ -1,6 +1,8 @@
-<img src="https://cdn.mos.cms.futurecdn.net/EzgdmaCQuT84bgDL4fhXZS.jpg" height='auto' width="100%" />
+
 <h1 align="center">Hi 👋, I'm Vineeth Pawar</h1>
+<h3 align="center">Software Engineer @ geekyAnts | React | React Native | TypeScript | JavaScript</h3>
 <h3 align="center">A passionate developer who loves learning new technologies and solving new challenges</h3>
+<img src="https://cdn.mos.cms.futurecdn.net/EzgdmaCQuT84bgDL4fhXZS.jpg" height='auto' width="100%" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineethpawar&label=Profile%20views&color=0e75b6&style=flat" alt="vineethpawar" /> </p>
 
