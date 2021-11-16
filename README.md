@@ -27,6 +27,6 @@
 <div><img  src="https://github-readme-streak-stats.herokuapp.com/?user=vineethpawar&" alt="vineethpawar" /></div>
 
 <h3 align="left">Hobbies:</h3>
-<p>👉Gaming</p>
-<p>👉Chess</p>
-<p>👉Chess</p>
+<li>👉Gaming</li>
+<li>👉Chess</li>
+<li>👉Chess</li>
