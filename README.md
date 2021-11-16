@@ -25,3 +25,8 @@
 <div><img  src="https://github-readme-stats.vercel.app/api?username=vineethpawar&show_icons=true&locale=en" alt="vineethpawar" /></div>
 
 <div><img  src="https://github-readme-streak-stats.herokuapp.com/?user=vineethpawar&" alt="vineethpawar" /></div>
+
+<h3 align="left">Hobbies:</h3>
+<p>👉Gaming</p>
+<p>👉Chess</p>
+<p>👉Chess</p>
