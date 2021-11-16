@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vineeth Pawar</h1>
-<h3 align="center">Software Engineer @ GeekyAnts | React | React Native | TypeScript | JavaScript</h3>
+<h3 align="center"><a href="google.com">Software Engineer @ GeekyAnts </a> | React | React Native | TypeScript | JavaScript</h3>
 <h3 align="center">A passionate developer who loves learning new technologies and solving new challenges</h3>
 <img src="https://i.pinimg.com/originals/71/ee/32/71ee32577432648f9e45fbd63b2cf261.jpg" height='auto' width="100%" />
 
