@@ -22,6 +22,6 @@
 
 <div><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=vineethpawar&show_icons=true&locale=en&layout=compact" alt="vineethpawar" /></div>
 
-<div>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=vineethpawar&show_icons=true&locale=en" alt="vineethpawar" /></div>
+<div><img  src="https://github-readme-stats.vercel.app/api?username=vineethpawar&show_icons=true&locale=en" alt="vineethpawar" /></div>
 
 <div><img  src="https://github-readme-streak-stats.herokuapp.com/?user=vineethpawar&" alt="vineethpawar" /></div>
