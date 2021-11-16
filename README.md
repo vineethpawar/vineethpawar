@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQGEPpN3LXM8Gg/profile-displaybackgroundimage-shrink_200_800/0/1630481076796?e=1642636800&v=beta&t=P7uCs4NXSHiBmuIZA_DSwZzbvCQv19dQ0r_h-NxJdNM" height='auto' width="100%" />
+<img src="https://cdn.mos.cms.futurecdn.net/EzgdmaCQuT84bgDL4fhXZS.jpg" height='auto' width="100%" />
 <h1 align="center">Hi 👋, I'm Vineeth Pawar</h1>
 <h3 align="center">A passionate developer who loves learning new technologies and solving new challenges</h3>
 
