@@ -24,7 +24,7 @@
 
 <p align=center>
   <div align=center>
-    <a >
+    <a href="!#">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=vineethpawar&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a>
