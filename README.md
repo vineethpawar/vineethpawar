@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vineeth Pawar</h1>
 <h3 align="center"><a href="https://geekyants.com/r-vineeth-pawar" target="blank">Software Engineer @ GeekyAnts </a> | React | React Native | TypeScript | JavaScript</h3>
 
-<h3 align='center'><img src="https://readme-typing-svg.herokuapp.com/?lines=Coder+by+❤️;Passionate+about+FrontEnd;Loves+to+Read+📚;Currently+exploring+Mobile+development+📱;&center=true&size=20"></h3>
+<h3 align='center'><img src="https://readme-typing-svg.herokuapp.com/?lines=Coder+by+❤️;Passionate+about+FrontEnd;Loves+to+Read+📚;Exploring+Mobile+development+📱;&center=true&size=20"></h3>
 <img src="https://i.pinimg.com/originals/71/ee/32/71ee32577432648f9e45fbd63b2cf261.jpg" height='auto' width="100%" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineethpawar&label=Profile%20views&color=0e75b6&style=flat" alt="vineethpawar" /> </p>
