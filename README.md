@@ -5,9 +5,9 @@
 <h3 align='center'>  <a href="#"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Coder+by+❤️;Passionate+about+FrontEnd;Loves+to+Read+📚;Exploring+Mobile+development+📱;&center=true&size=20"> </a> </h3>
  <a href="#!"><img src="https://i.pinimg.com/originals/71/ee/32/71ee32577432648f9e45fbd63b2cf261.jpg" height='auto' width="100%" /> </a>
 
-<p align="left"> <a href="#"> <img src="https://komarev.com/ghpvc/?username=vineethpawar&label=Profile%20views&color=0e75b6&style=flat" alt="vineethpawar" /> </a> </p>
+<p align="left"> <a href="#!!"> <img src="https://komarev.com/ghpvc/?username=vineethpawar&label=Profile%20views&color=0e75b6&style=flat" alt="vineethpawar" /> </a> </p>
 
-<p align="left">  <a href="#"> <img src="https://github-profile-trophy.vercel.app/?username=vineethpawar" alt="vineethpawar" /> </a> </p>
+<p align="left">  <a href="#!"> <img src="https://github-profile-trophy.vercel.app/?username=vineethpawar" alt="vineethpawar" /> </a> </p>
 
 - 📫 How to reach me **vineethpawar99@gmail.com**
 
@@ -24,16 +24,16 @@
 
 <p align=center>
   <div align=center>
-    <a href="#">
+    <a href="#!">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=vineethpawar&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
-    <a href="#">
+    <a href="#!">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=vineethpawar&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br>
   <div align=center>
-     <a href="#" >
+     <a href="#!" >
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineethpawar&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
