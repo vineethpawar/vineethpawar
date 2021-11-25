@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vineethpawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vineethpawar" height="30" width="40" /></a>
-  <a href="https://www.goodreads.com/user/show/143313803-vineeth-pawar" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkHTSm5S3Y_SynoZWviQApF7shq-_34OiZ4w&usqp=CAU" alt="vineethpawar" height="30" width="40" /></a>
+  <a style="margin-left:'20px'" href="https://www.goodreads.com/user/show/143313803-vineeth-pawar" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkHTSm5S3Y_SynoZWviQApF7shq-_34OiZ4w&usqp=CAU" alt="vineethpawar" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
