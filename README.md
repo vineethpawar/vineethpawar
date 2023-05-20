@@ -5,8 +5,8 @@
 :office: <a href="https://geekyants.com/r-vineeth-pawar" target="blank"> Software Engineer II </a> @ GeekyAnts <br>
  🔭 Currently working on a &nbsp;<a href="#!"><img  src="https://readme-typing-svg.herokuapp.com?font=Robotos&size=12&pause=1000&color=FFFFFF&vCenter=true&width=180&height=10&lines=Multiplayer+pictionary+game;UI+slider+library;Messenger+app" alt="Typing SVG" /> </a><br>👯 I’m looking to contribute on Open Source<br>
   🌱 I’m currently learning Node js<br>
-  💬 Ask me about Web and App development<br>:books:  I'm currently reading <a href="https://www.amazon.in/Atomic-Habits-Proven-Build-Break/dp/B07J1ZBCZJ" target="blank">Atomic habits</a>
-
+  💬 Ask me about Web and App development<br>:books:  I'm currently reading <a href="https://www.amazon.in/Atomic-Habits-Proven-Build-Break/dp/B07J1ZBCZJ" target="blank">Atomic habits</a> <br>
+ :email: <a href="mailto:vineethpawar99@gmail?subject=Saw%20your%20github%20profile" target="blank" >vineethpawar99@gmail.com </a>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vineethpawar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@vineethpawar9135) 
 
@@ -18,6 +18,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vineethpawar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!---[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3146i7i3iqjsedjwituvg4awn4n4&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 --->
-
+<!-- ## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypalme/vineethpawar) 
+ -->
 ---
 
