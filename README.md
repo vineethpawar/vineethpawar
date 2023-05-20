@@ -6,7 +6,6 @@
  🔭 Currently working on a &nbsp;<a href="#!"><img  src="https://readme-typing-svg.herokuapp.com?font=Robotos&size=12&pause=1000&color=FFFFFF&vCenter=true&width=180&height=10&lines=Multiplayer+pictionary+game;UI+slider+library;Messenger+app" alt="Typing SVG" /> </a><br>👯 I’m looking to contribute on Open Source<br>
   🌱 I’m currently learning Node js<br>
   💬 Ask me about Web and App development<br>:books:  I'm currently reading <a href="https://www.amazon.in/Atomic-Habits-Proven-Build-Break/dp/B07J1ZBCZJ" target="blank">Atomic habits</a> <br>
- :email: <a href="mailto:vineethpawar99@gmail?subject=Saw%20your%20github%20profile" target="blank" >vineethpawar99@gmail.com </a>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vineethpawar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@vineethpawar9135) 
 
