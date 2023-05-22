@@ -1,6 +1,6 @@
 <h1 > Hi 👋, I'm <a href="https://vineethpawar.com" target="blank"> Vineeth Pawar </a> </h1>
 
-[![](https://visitcount.itsvg.in/api?id=vineethpawar&icon=5&color=6)](#)
+![](https://visitcount.itsvg.in/api?id=vineethpawar&icon=5&color=6)
 
 :office: <a href="https://geekyants.com/r-vineeth-pawar" target="blank"> Software Engineer II </a> @ GeekyAnts <br>
  🔭 Currently working on a &nbsp;<a href="#!"><img  src="https://readme-typing-svg.herokuapp.com?font=Robotos&size=12&pause=1000&color=FFFFFF&vCenter=true&width=180&height=10&lines=Multiplayer+pictionary+game;UI+slider+library;Messenger+app" alt="Typing SVG" /> </a><br>👯 I’m looking to contribute on Open Source<br>
