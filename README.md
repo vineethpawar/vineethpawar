@@ -1,4 +1,4 @@
-<h1 > Hi 👋, I'm <a href="https://vineethpawar.com" target="blank"> Vineeth Pawar </a> </h1>
+<h1 > Hi 👋, I'm <a href="https://vpawar.me" target="blank"> Vineeth Pawar </a> </h1>
 <p>A Front End Dev with 2+ years of experience, proficient in React, React Native, and TypeScript. Skilled in Redux and many other technologies, with a strong ability to develop applications for both Web and Mobile platforms. Passionate about creating seamless user experiences through clean and efficient code.</p>
 
 ![](https://komarev.com/ghpvc/?username=vineethpawar&label=PROFILE+VIEWS&color=blueviolet)
