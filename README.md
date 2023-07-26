@@ -31,7 +31,7 @@
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
  
-<!---# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vineethpawar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)]<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vineethpawar&theme=dark&hide_border=false)]<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vineethpawar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
