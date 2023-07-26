@@ -31,10 +31,11 @@
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
  
-# 📊 GitHub Stats:
+<!---# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vineethpawar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)]<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vineethpawar&theme=dark&hide_border=false)]<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vineethpawar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+-->
 <!---[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3146i7i3iqjsedjwituvg4awn4n4&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 --->
 <!-- ## 💰 You can help me by Donating
