@@ -30,7 +30,7 @@ Things I've worked on
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p> Do check out my pinned projects!</p>
+<h3> Do check out my <b> pinned projects </b>b!</h3>
 
 See ya!!
 
