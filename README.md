@@ -4,7 +4,6 @@
 
 <!-- I'm <a href="https://vpawar.me" target="blank"> Vineeth Pawar </a> </h1> -->
 <p>I'm a Front End Dev with 3+ years of XP, proficient with JS and a bunch of stuff mentione below 👇  </p>
-<p> Do check out my pinned projects!</p>
 
  Reach me out on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vineethpawar)
 
@@ -28,9 +27,10 @@ Things I've worked on
 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
-## Databases:
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+<p> Do check out my pinned projects!</p>
 
 See ya!!
 
