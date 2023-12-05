@@ -1,15 +1,14 @@
 <h1 > Hey there, Visiter👋 <br/> </h1>
 <!-- I'm <a href="https://vpawar.me" target="blank"> Vineeth Pawar </a> </h1> -->
 <p>I'm a Front End Dev with 3+ years of XP, proficient with JS and a bunch of stuff mentione below 👇  </p>
-
+<p> Do check out my pinned projects!</p>
+ Reach me out on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vineethpawar)
 ![](https://komarev.com/ghpvc/?username=vineethpawar&label=PROFILE+VIEWS&color=blueviolet)
 
 :office: <a href="https://geekyants.com/r-vineeth-pawar" target="blank"> Software Engineer III </a> @ GeekyAnts <br>
- 🔭 Currently working on a &nbsp;<a href="#!"><img  src="https://readme-typing-svg.herokuapp.com?font=Robotos&size=12&pause=1000&color=FFFFFF&vCenter=true&width=180&height=10&lines=Multiplayer+pictionary+game;UI+slider+library;Messenger+app" alt="Typing SVG" /> </a><br>👯 I’m looking to contribute on Open Source<br>
+ 🔭 Currently working on a &nbsp;<a href="#!"><img  src="https://readme-typing-svg.herokuapp.com?font=Robotos&size=12&pause=1000&color=FFFFFF&vCenter=true&width=180&height=10&lines=Multiplayer+pictionary+game;UI+slider+library;Messenger+app" alt="Typing SVG" /> </a><br>  
   🌱 I’m currently learning Node js<br>
   💬 Ask me anything about Frontend with JS, < anything but centering a < div > 🙃 > <br>:books:  I'm currently reading <a href="https://www.amazon.in/Atomic-Habits-Proven-Build-Break/dp/B07J1ZBCZJ" target="blank">Atomic habits</a> <br>
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vineethpawar)
 
 # 💻 Tech Stack:
 
