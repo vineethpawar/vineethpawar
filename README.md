@@ -1,4 +1,5 @@
-<h1 > Hi 👋, I'm <a href="https://vpawar.me" target="blank"> Vineeth Pawar </a> </h1>
+<h1 > Hey there, Visiter👋 <br/>
+I'm <a href="https://vpawar.me" target="blank"> Vineeth Pawar </a> </h1>
 <p>A Front End Dev with 2+ years of experience, proficient in React, React Native, and TypeScript. Skilled in Redux and many other technologies, with a strong ability to develop applications for both Web and Mobile platforms.</p>
 
 ![](https://komarev.com/ghpvc/?username=vineethpawar&label=PROFILE+VIEWS&color=blueviolet)
@@ -30,7 +31,10 @@
 ## Design Tools:
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
- 
+See ya!!
+
+ ![bye-slide](https://github.com/vineethpawar/vineethpawar/assets/55575881/61ba56ec-24e4-4b77-97fe-e88d26609a99)
+
 <!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vineethpawar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)]<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vineethpawar&theme=dark&hide_border=false)]<br/>
