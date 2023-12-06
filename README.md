@@ -1,4 +1,4 @@
-<h1 > Hey there, Visiter👋 <br/> </h1>
+<h1 > Hey there, Visitor👋 <br/> </h1>
 
 ![](https://komarev.com/ghpvc/?username=vineethpawar&label=PROFILE+VIEWS&color=blueviolet)
 
