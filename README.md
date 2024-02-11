@@ -31,9 +31,6 @@ Things I've worked on
 
 <h3> Do check out my <b> pinned projects </b></h3>
 
-See ya!!
-
- ![bye-slide](https://github.com/vineethpawar/vineethpawar/assets/55575881/61ba56ec-24e4-4b77-97fe-e88d26609a99)
 
 <!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vineethpawar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)]<br/>
