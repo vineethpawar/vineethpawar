@@ -9,7 +9,8 @@ I'm <a href="https://vpawar.me" target="blank"> Vineeth Pawar </a> </h1>
 
 :office: <a href="https://geekyants.com/r-vineeth-pawar" target="blank"> Software Engineer III </a> @ GeekyAnts <br>
  🔭 Currently working on a &nbsp;<a href="#!"><img  src="https://readme-typing-svg.herokuapp.com?font=Robotos&size=12&pause=1000&color=FFFFFF&vCenter=true&width=180&height=10&lines=Multiplayer+pictionary+game;Hover+CSS+generator;Messenger+app" alt="Typing SVG" /> </a><br>🌱 I’m currently learning Node js<br>
-  💬 Ask me anything about Frontend <br>:books:  I'm currently reading Rich Dad poor Dad <br>
+  💬 Ask me anything about Frontend 
+  
 
 Things I've worked on
 
