@@ -7,7 +7,7 @@ I'm <a href="https://vpawar.me" target="blank"> Vineeth Pawar </a> </h1>
 
  Reach me out on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vineethpawar)
 
-:office: Sr. Frontend Developer @  <a href="https://nexstem.ai" target="blank"> Nexstem </a> <br>
+:office: Sr. Software Engineer (Frontend) @  <a href="https://nexstem.ai" target="blank"> Nexstem </a> <br>
   <!-- 🔭 Currently working on a &nbsp;<a href="#!"><img  src="https://readme-typing-svg.herokuapp.com?font=Robotos&size=12&pause=1000&color=FFFFFF&vCenter=true&width=180&height=10&lines=Multiplayer+pictionary+game;Hover+CSS+generator;Messenger+app" alt="Typing SVG" /> </a><br>🌱 I’m currently exploring cross platform design systems for Desktop and Mobile platforms <br>
   💬 Ask me anything about Frontend 
   --->
