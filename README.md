@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=vineethpawar&label=PROFILE+VIEWS&color=blueviolet)
 
-I'm <a href="https://vpawar.me" target="blank"> Vineeth Pawar </a> </h1> 
+I'm  Vineeth Pawar</h1> 
 <p>Frontend developer with 3+ years of experience, proficient in React, React native, TypeScript and some more libraries. I love building cool stuff on both App and Web </p>
 
  Reach me out on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vineethpawar)
