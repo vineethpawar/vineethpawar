@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=vineethpawar&label=PROFILE+VIEWS&color=blueviolet)
 
 I'm  Vineeth Pawar</h1> 
-<p>Frontend developer with 3+ years of experience, proficient in React, React native, TypeScript and some more libraries. I love building cool stuff on both App and Web </p>
+<p>Senior Frontend Engineer with 4 years of experience building cross-platform applications and design systems. I work with React, React Native, and Electron to create scalable component libraries and architectures that run across web, mobile, and desktop. My current focus is on high-frequency real-time data visualization, performance-driven frontend systems, and modular monorepo tooling. I’m also passionate about accessibility, developer experience, and occasionally experimenting with 3D and interactive UI using Three.js. </p>
 
  Reach me out on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vineethpawar)
 
